@@ -1,0 +1,12 @@
+body {
+  background-color: white;
+}
+
+App {
+  font-family: arial;
+}
+
+Nav {
+  display: flex;
+  flex: space-between;
+}
